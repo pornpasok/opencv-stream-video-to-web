@@ -1,5 +1,7 @@
 # opencv-stream-video-to-web
 
+![sample](images/sample.png)
+
 ```
 # Usage
 python3 webstreaming.py --ip 0.0.0.0 --port 8000
